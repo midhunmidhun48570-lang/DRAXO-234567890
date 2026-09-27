@@ -22,5 +22,11 @@
         "key": "Rishan",
         "expirydate": "27-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "46cb4c461e77c5fb",
+        "key": "ELIXER-777",
+        "expirydate": "28-09-2026",
+        "Allowoffline": false
     }
 ]
